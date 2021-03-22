@@ -560,8 +560,8 @@ C'est différent dans les provinces.
 Ici le rassemblement national de droit domine.
 Des différences similaires entre les zones urbaines et zones rurales dans le comportement électoral peuvent être observées dans beaucoup de pays de l'union européenne, comme par exemple en Grande-Bretagne, en Pologne, en République Tchèque et aussi en Allemagne.
 Seulement la moitié de l'Europe est vert.
-Un autre gagnant de l'élection européenne, aux côtés de l'extrême droite ou du parti populiste de droite, a été les Verts.
-En particulier en Allemagne, mais aussi dans les autres pays du Nord et de l'Ouest de l'Europe, ils ont fortement performé jusqu'à 2014.
+    Un autre gagnant de l'élection européenne, aux côtés de l'extrême droite ou du parti populiste de droite, a été les Verts.
+    En particulier en Allemagne, mais aussi dans les autres pays du Nord et de l'Ouest de l'Europe, ils ont fortement performé jusqu'à 2014.
 Cependant la perspective sur la carte montre que le mouvement des Verts n'est pas encore un mouvement qui suscite de l'intérêt dans toute l'Europe.
 Les partis écologiques ont du mal à percer dans le sud et dans l'est de l'Europe.
 Ils sont pas du tout représentés dans certains pays.
@@ -676,7 +676,8 @@ Le président français Emmanuel Macron s'est montré ouvert à une nomination d
 Le président du gouvernement tchèque, Andrej Babis, qui est affilié aux Libéraux, s'est également prononcé contre Timmerman.
 Le Groupe de Visegrad (la Pologne, la Slovaquie, la Hongrie et la République tchèque) auraient selon lui émis des réserves.
 Le Premier ministre hongrois Viktor Orban s'est opposé dans une lettre adressée au PPE à la nomination de Timmerman.
-Un accord pour le poste de Président de la Commission doit être trouvé au cours du sommet européen. Pour cela, il faut qu'il soit porté par au moins 21 Etats, représentant 65% de la population de l'UE.
+Un accord pour le poste de Président de la Commission doit être trouvé au cours du sommet européen.
+Pour cela, il faut qu'il soit porté par au moins 21 Etats, représentant 65% de la population de l'UE.
 On cherche aussi un nouveau président pour la Banque centrale européenne (BCE)
 Mais dans un premier temps un flou demeurait autour de la question de cette position au sein de l'équipe pressentie.
 Les membres de l'Union critiquent les contacts avec Manfred Weber.
@@ -686,7 +687,8 @@ Paul Ziemial, le secrétaire général de la CDU a exprimé son désaccord sur l
 Ziemiak a dit à l'ARD que Weber a été désigné "Spitzenkandidat" du PPE pour les élections européennes dans le but de prendre le poste-clé.
 Toujours selon Ziemiak, Weber a le principal groupe du Parlement européen derrière lui et les électeurs se sont exprimés très clairement, tous se sont prononcés en faveur du processus du "Spitzenkandidat": "Manfred Weder peut donc prétendre au poste de Président de la Commission".
 "Toute autre chose serait incompréhensible" déclara le secrétaire général de la CDU
-"Si nous ne pouvons pas imposer cela, cela affaiblira notre système. En effet, avec les têtes de listes, les électeurs ne votent pas uniquement pour un parti mais aussi pour une personne pouvant incarner une Europe forte et proche à la fois."
+"Si nous ne pouvons pas imposer cela, cela affaiblira notre système.
+En effet, avec les têtes de listes, les électeurs ne votent pas uniquement pour un parti mais aussi pour une personne pouvant incarner une Europe forte et proche à la fois."
 Markus Söder (CSU), le ministre-président de Bavière, a critiqué la position du président français Emmanuel Macron au sujet de la nomination d'un nouveau président de commission.
 Söder a exprimé son étonnement concernant l'intervention de Macron.
 Selon lui, il n'aurait pas suivi le processus classique européen.
@@ -1204,7 +1206,8 @@ Jusqu’ici, la Grande-Bretagne n’a pourtant toujours pas soumis de propositio
 « Nous attendons les propositions ».
 La France expérimente à Calais le Brexit qui tournerait mal
 La France expérimente en ce moment le Brexit qui tournerait mal : à Calais, ville du nord de la France, un exercice d’un mois débute vendredi après-midi pour le transit des marchandises à destination du Royaume-Uni postérieurement à la sortie de cette dernière de l’Union européenne.
-« Pendant un mois, nous allons faire comme si le Brexit avait eu lieu. Nous allons organiser une sorte de répétition générale pour un grand nombre d’entreprises afin d’être prêts pour la fin du mois d’octobre », a déclaré vendredi le ministre français du Budget Gérald Darmanin à la chaîne de radio RTL.
+« Pendant un mois, nous allons faire comme si le Brexit avait eu lieu.
+Nous allons organiser une sorte de répétition générale pour un grand nombre d’entreprises afin d’être prêts pour la fin du mois d’octobre », a déclaré vendredi le ministre français du Budget Gérald Darmanin à la chaîne de radio RTL.
 Le parti travailliste appelle à un second référendum
 Jeremy Corbyn veut que les Britanniques votent de nouveau sur le Brexit.
 Dans cette hypothèse, le parti travailliste s’engagerait en faveur du maintien dans l’Union européenne.
@@ -1539,7 +1542,8 @@ Hammond a démissionné de son poste après la nomination de Johnson.
 Johnson a réagi à ces reproches en formulant sa propre critique : Il a déploré la « terrible collaboration » de ceux qui voulaient bloquer le Brexit au Parlement avec « nos amis européens ».
 Il en résulte que l’Union européenne est encore moins disposée à offrir des compromis, dit-il.
 Cette dernière est toujours persuadée « que le Brexit peut être bloqué au Parlement ».
-Des représentants de l’Union européenne reprochent à Johnson d’être fermé à toute solution : « Ils ne font aucun compromis du tout en ce qui concerne l’accord de sortie, bien qu’il ait été rejeté à trois reprises. Ils s’accrochent à chaque lettre, à chaque virgule de l’accord de sortie ».
+Des représentants de l’Union européenne reprochent à Johnson d’être fermé à toute solution : « Ils ne font aucun compromis du tout en ce qui concerne l’accord de sortie, bien qu’il ait été rejeté à trois reprises.
+Ils s’accrochent à chaque lettre, à chaque virgule de l’accord de sortie ».
 Une porte-parole de la Commission européenne a répliqué que le groupe était ouvert à des discussions avec le gouvernement britannique : « Nous sommes disposés à analyser plus précisément toute proposition, dès lors qu’elle est compatible avec l’accord de sortie ».
 Mais le gouvernement britannique doit développer plus précisément ses idées et respecter les engagements déjà pris.
 La responsabilité incombe à l’Union européenne
